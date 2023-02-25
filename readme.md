@@ -4,11 +4,12 @@
 
 ## 1. Why AWS Transist Gateway?
 	
-	- Before Transit Gateway (Nov 26, 2018)
+- Before Transit Gateway ([Nov 26, 2018](https://aws.amazon.com/))
 	
-	[read more](https://aws.amazon.com/)
 
-[This is an external link to genome.gov](https://www.genome.gov/)
+
+
+
 
 ## 2. Architecture to Build (Multi-VPC, Cross-Region, Cross-Account)
 

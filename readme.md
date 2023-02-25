@@ -4,7 +4,7 @@
 
 ## 1. Why AWS Transist Gateway?
 	
-- Before Transit Gateway ([Nov 26, 2018](https://aws.amazon.com/))
+- Before Transit Gateway ([Nov 26, 2018](https://aws.amazon.com/)) <a href="https://viet.vn" target="_blank">Open Viet New Tab</a>
 	
 
 

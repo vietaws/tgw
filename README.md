@@ -40,15 +40,16 @@ AWS TGW Highlights:
 
 ### Build Scenerios:
 
-	#1. Multi-VPC - Single Account - Single Region
+#1. Multi-VPC - Single Account - Single Region
 
-	#2. Multi-VPC - Cross Account - Single Region
+#2. Multi-VPC - Cross Account - Single Region
 
-	#3. Multi-VPC - Single Account - Cross Region
+#3. Multi-VPC - Single Account - Cross Region
 
-	#4. Multi-VPC - Cross Account - Cross Region
+#4. Multi-VPC - Cross Account - Cross Region
 
 ## You also learn:
-	1. Transit Gateway Single Route Table vs Multi Route Table
-	2. Using AWS RAM (Resource Access Manager)
-	3. Setup VPC, IGW, Amazon EC2, Security Group
+1. Transit Gateway Single Route Table vs Multi Route Table
+2. AWS TGW Attachements, Associations, Propagation, Routes in TGW Route Table
+3. Using AWS RAM (Resource Access Manager)
+4. Setup VPC, IGW, Amazon EC2, Security Group, AWS SSM

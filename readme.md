@@ -4,8 +4,8 @@
 
 ## 1. Why AWS Transist Gateway?
 	
-	- Before Transit Gateway (Nov 26, 2018)
-	ref: https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-aws-transit-gateway/ 
+	- Before Transit Gateway (Nov 26, 2018 [read more](https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-aws-transit-gateway/ ))
+	ref: 
 
 ## 2. Architecture to Build (Multi-VPC, Cross-Region, Cross-Account)
 

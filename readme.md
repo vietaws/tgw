@@ -7,7 +7,8 @@
 	- Before Transit Gateway (Nov 26, 2018)
 	
 	[read more](https://aws.amazon.com/)
-	[This is an external link to genome.gov](https://www.genome.gov/)
+
+[This is an external link to genome.gov](https://www.genome.gov/)
 
 ## 2. Architecture to Build (Multi-VPC, Cross-Region, Cross-Account)
 

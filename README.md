@@ -4,11 +4,25 @@
 
 ## 1. Why AWS Transist Gateway?
 	
-- Before Transit Gateway ([Nov 26, 2018](https://aws.amazon.com/){:target="_blank"}) <a href="https://viet.vn" target="_blank">Open Viet New Tab</a>
+- Without Transit Gateway 
+	- VPC Peering
+	- VPC Transit with IPSec
+	- VPN per VPC to On-premises
+- Transit Gateway Annoucement [Nov 26, 2018](https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-aws-transit-gateway/)
+- [Amazon VPC Quotas](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html)
 
 
+AWS TGW Highlights:
+
+1. Number of attachements: 5,000
+2. Peering attachments per transit gateway: 50
+3. Transit gateways per VPC: 5
+4. Maximum bandwidth per VPC attachment, DXG, Peering TGW: 50 Gbps
+5. Maximum bandwidth per VPN tunnel: 1.25 Gbps
 
 
+- [AWS Transit Gateway Quotas](https://docs.aws.amazon.com/vpc/latest/tgw/transit-gateway-quotas.html)
+- [Transit Gateway Pricing](https://aws.amazon.com/transit-gateway/pricing/)
 
 ## 2. Architecture to Build (Multi-VPC, Cross-Region, Cross-Account)
 
